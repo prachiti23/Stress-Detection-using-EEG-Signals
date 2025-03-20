@@ -34,3 +34,7 @@ Stress is a major mental health concern that affects cognitive function, mood, a
 * Real-time EEG signal acquisition for live stress monitoring.
 * Integration with IoT devices for wearable stress detection systems.
 * Deep learning models (CNN, LSTMs) for improved classification.
+## Languages Used
+- MATLAB
+- Signal Processing Techniques
+- Machine Learning
